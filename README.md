@@ -1,6 +1,6 @@
  Hi, I’m @StazeTH
 
-  French, 21 years old, I am on Github out of pure curiosity and I hope to be able to learn a little more about programming.
+  French, born in 2000, I am on Github out of pure curiosity and I hope to be able to learn a little more about programming.
   
 I'm still learning English so I apologize in advance for any mistakes I might make. ^^
 
